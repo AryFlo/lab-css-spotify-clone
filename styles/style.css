@@ -114,7 +114,21 @@ h1 {
   flex-wrap: wrap;
   align-content: center;
 }
-
+.Songs{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.Music{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.Stream{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
 .easy-yeezy {
   text-decoration-line: underline;
   text-underline-offset: 10px;
